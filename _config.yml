@@ -97,8 +97,8 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
-  bio              : "An engineer with a passion for teaching "
+  avatar           : "assets/img/Dorothy_Headshot.jpg"
+  bio              : "3rd year undergraduate student at Vanderbilt"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
