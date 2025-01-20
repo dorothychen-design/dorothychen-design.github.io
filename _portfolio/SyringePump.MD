@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump Project"
-excerpt: "This project entails the construction of a functional syringe pump powered by a motor coupled to a lead screw. 
+excerpt: "This project entails the construction of a functional syringe pump powered by a motor coupled to a lead screw." 
 header:
   image: /assets/img/syringepumpfront.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
