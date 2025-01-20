@@ -54,7 +54,7 @@ The syringe pump is not useful unless it is controllable by the user. For user i
 | Component | Description| Parts |
 |-----------|------------| ---------------- |
 | Chassis   | ABS Plastic | motor mounts, syringe support mount |
-| Linear actuator | moves the pump | LM8UU-Linear Bearing, lock collar for lead screw (14mm outer diameter), lock collar for linear rod (20mm outer diameter), Linear rod (8mm x 200mm), M5 tee nut, M5 x 8mm bolt, M3 x 10 mm bolt, NEMA motor, aluminum extrusion (20x40x350 mm), flexible coupler, flanged ball bearing, 2mm leadscrew, 22mm diameter nut |\
+| Linear actuator | entire mechanism that moves the pump | LM8UU-Linear Bearing, lock collar for lead screw (14mm outer diameter), lock collar for linear rod (20mm outer diameter), Linear rod (8mm x 200mm), M5 tee nut, M5 x 8mm bolt, M3 x 10 mm bolt, NEMA motor, aluminum extrusion (20x40x350 mm), flexible coupler, flanged ball bearing, 2mm leadscrew, 22mm diameter nut |\
 | LED buttons | indicates progress| 10 mm LED |
 | Breadboard  | wiring | |
 | LCD monitor | indicates ml |
