@@ -64,5 +64,9 @@ The syringe pump is not useful unless it is controllable by the user. For user i
 | Syringe pump | carries the fluid | 20ml syringe pump |
 | forward and backward buttons | manually adjust pump position | M10 push button |
 
+## Interactive Fusion 360 Model
+
+
+## Operating Instructions
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
