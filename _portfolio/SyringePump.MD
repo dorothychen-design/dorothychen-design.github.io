@@ -3,7 +3,7 @@ title: "Syringe Pump Project"
 excerpt: "This project entails the construction of a functional syringe pump powered by a motor coupled to a lead screw." 
 header:
   image: /assets/img/syringepumpfront.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: /assets/img/syring_pump_3d_render.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
@@ -49,16 +49,20 @@ The syringe pump is not useful unless it is controllable by the user. For user i
 ![ledyellow](/assets/img/sp_yellow.jpg)
 ![ledred](/assets/img/sp_red.jpg)
 
-### Off the Shelf Parts
+### Parts
 
 | Component | Description| Parts |
 |-----------|------------| ---------------- |
-| Enclosure   | ABS Plastic |
-| Linear actuator | moves the pump | LM8UU-Linear Bearing, Lock Collar lead screw, Lock collar linear rod, Linear rod (8mm x 200mm), M5 tee nut, M5 x 8mm bolt, NEMA motor, Aluminum Extrusion (20x40x350 mm), flexible coupler, flanged ball bearing, 2mm leadscrew |\
+| Chassis   | ABS Plastic | motor mounts, syringe support mount |
+| Linear actuator | moves the pump | LM8UU-Linear Bearing, lock collar for lead screw (14mm outer diameter), lock collar for linear rod (20mm outer diameter), Linear rod (8mm x 200mm), M5 tee nut, M5 x 8mm bolt, M3 x 10 mm bolt, NEMA motor, aluminum extrusion (20x40x350 mm), flexible coupler, flanged ball bearing, 2mm leadscrew, 22mm diameter nut |\
 | LED buttons | indicates progress| 10 mm LED |
 | Breadboard  | wiring | |
 | LCD monitor | indicates ml |
 | M3 bolts | secures lid to bottom half of enclosure |
-| micro-controller | programming the pump | arduino uno
+| Micro-controller | programming the pump | Arduino Uno |
+| Start/stop button | start and stop the pump | 10mm push button |
+| Syringe pump | carries the fluid | 20ml syringe pump |
+| forward and backward buttons | manually adjust pump position | M10 push button |
+
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
