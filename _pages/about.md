@@ -1,28 +1,24 @@
 ---
 
-title: "About David Florian"
+title: "About Dorothy Chen"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Dorothy is a 3rd year undergraduate student at Vanderbilt studying Art and Digital Fabrication.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BA Art
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Dorothy has experience with rapid prototyping, CAD modeling, and working in teams with diverse skillsets. She values both aesthetics and functionality when designing 3D models. 
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Laser cutting
+* CAD Fusion 360
+* Python language
 
 ## Press 
 
