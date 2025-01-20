@@ -38,20 +38,27 @@ The enclosure was made with a curved front that leads to a panel with an LCD dis
 
 ### Linear Actuator Mechanism
 The syringe pump works by placing a syringe into a linear actuator (Figure 1) that pushes or pulls on the plunger to dispense liquid at a constant rate. The linear actuator is an electro-mechanical system that turns rotational motion provided by the motor (Figure 1, label A) into linear motion. The rotational motion of the motor is coupled to a lead screw that a nut may be screwed onto. If this nut is rotationally fixed, as it is by the rod in Figure 1 label B, then the motion is forced to become linear, moving whatever is fixed to the nut back and forth. For this linear actuator, the carriage (label C) is fixed to the screw, so it, as a unit, will move back and forth. On the carriage, there is a slot for the end of the plunger of the syringe pump, which is what allows the carriage to push and pull the plunger. On the end support (label D), there is another slot to hold the body of the syringe in place. The combination of a fixed body with a plunger that is able to be moved by the carriage is what allows the overall system to effectively dispense liquid. For example, if the carriage moves forward, it may push the plunger from 15 mL to 10 mL without the body of the syringe moving at all.\
+
 ![diagram](/assets/img/sp_diagram.png)\
 Figure 1
 
 ### Buttons, Switch, and LED
 The syringe pump is not useful unless it is controllable by the user. For user input, three buttons are located on the front of the enclosure (Figure 2), along with one LED for user feedback. The buttons (from left to right) are the Dispense button, Backward button, and Forward button. The Dispense button is a toggle-able button that tells the pump to move the carriage forward at the correct rate, depending on the desired flow rate and changes the LED to green to show that the pump is currently dispensing. When not pressed, the pump is in a “manual control mode,” where the LED is yellow, and the user may use the forward and backward buttons to move the carriage in the desired direction. Finally, when the pump is done dispensing, a limit switch is present to tell the pump that it is done. When the limit switch is pressed, the LED turns red to signal the end of dispensing, and the motor will no longer turn. These three states can be seen in Figure 2.\
+
 ![ledgreen](/assets/img/sp_green.jpg)
 ![ledyellow](/assets/img/sp_yellow.jpg)
 ![ledred](/assets/img/sp_red.jpg)
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="/assets/img/sp_green.jpg" width="32%" alt="Image 1">
-    <img src="/assets/img/sp_yellow.jpg" width="32%" alt="Image 2">
-    <img src="/assets/img/sp_red.jpg" width="32%" alt="Image 3">
-</div
+### Off the Shelf Parts
 
+| Component | Description| Parts |
+|-----------|------------| ---------------- |
+| Enclosure   | ABS Plastic |
+| Linear actuator | moves the pump | LM8UU-Linear Bearing, Lock Collar lead screw, Lock collar linear rod, Linear rod (8mm x 200mm), M5 tee nut, M5 x 8mm bolt, NEMA motor, Aluminum Extrusion (20x40x350 mm), flexible coupler, flanged ball bearing, 2mm leadscrew |\
+| LED buttons | indicates progress| 10 mm LED |
+| Breadboard  | wiring | |
+| LCD monitor | indicates ml |
+| M3 bolts | secures lid to bottom half of enclosure |
+| micro-controller | programming the pump | arduino uno
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
