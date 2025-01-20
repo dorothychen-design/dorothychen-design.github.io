@@ -16,7 +16,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 ## Team
-Joseph Quatela: Computer Engineering Major, Electrical and Code\
+Joseph Quatela: Computer Engineering Major, Electrical\
 Olivia Omas: Earth and Environmental Science, CAD\
 Joseph Zou: Computer Science, Electrical and Code\
 Dorothy Chen: Art, CAD
