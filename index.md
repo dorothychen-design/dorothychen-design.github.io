@@ -18,6 +18,7 @@ feature_row:
     alt: "placeholder image 2"
   - image_path: /assets/img/sp_electronics.png
 ---
-# Featured Project Gallery
+### Project Gallery
+
 {% include feature_row %}
 
