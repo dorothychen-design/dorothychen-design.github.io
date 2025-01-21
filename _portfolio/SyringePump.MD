@@ -5,14 +5,15 @@ header:
   image: /assets/img/syringepumpfront.jpg
   teaser: /assets/img/syring_pump_3d_render.jpg
 gallery:
-  - url: /assets/img/sp_front_view.jpg
-    alt: "syringe_pump_front"
-  - url: /assets/img/sp_logo.png
-    image_path: /assets/img/sp_logo.png
-    alt: "syringe_pump_logo"
-  - url: /assets/img/sp_fit.jpg
-    image_path: /assets/img/sp_fit.jpg
-    alt: "syringe_pump_fit"
+  - url: /assets/img/sp_enclosure_lid_proto.jpg
+    image_path: /assets/img/sp_enclosure_lid_proto.jpg
+    alt: "lid"
+  - url: /assets/img/sp_wires.jpg
+    image_path: /assets/img/sp_wires.jpg
+    alt: "wires"
+  - url: /assets/img/sp_enclosure_lid_fit.jpg
+    image_path: /assets/img/sp_enclosure_lid_fit.jpg
+    alt: "syringe_pump_lid_fit"
 ---
 ## Team
 This project was done in a team consisting of different majors and diverse skillsets.
