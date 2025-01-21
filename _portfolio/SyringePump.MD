@@ -84,4 +84,4 @@ Figure 2
 9. Once dispensing is complete (LED is red), press the start button again to move back into manual control mode.
 10. Use the backward button to reset the pump to the desired position.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Additional images" %}
