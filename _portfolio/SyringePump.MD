@@ -5,8 +5,8 @@ header:
   image: /assets/img/syringepumpfront.jpg
   teaser: /assets/img/syring_pump_3d_render.jpg
 gallery:
-  - url: /assets/img/sp_electronics.png
-    alt: "syringe_pump_electronics"
+  - url: /assets/img/sp_front_view.jpg
+    alt: "syringe_pump_front"
   - url: /assets/img/sp_logo.png
     image_path: /assets/img/sp_logo.png
     alt: "syringe_pump_logo"
