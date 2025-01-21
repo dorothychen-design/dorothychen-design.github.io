@@ -5,14 +5,13 @@ header:
   image: /assets/img/syringepumpfront.jpg
   teaser: /assets/img/syring_pump_3d_render.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/sp_electronics.png
     alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+  - url: /assets/img/sp_logo.png
+    image_path: /assets/img/sp_logo.png
     alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/sp_fit.jpg
+    image_path: /assets/img/sp_fit.jpg
     alt: "placeholder image 3"
 ---
 ## Team
@@ -65,7 +64,8 @@ The syringe pump is not useful unless it is controllable by the user. For user i
 | Syringe pump | carries the fluid | 20ml syringe pump |
 | forward and backward buttons | manually adjust pump position | M10 push button |
 
-# Interactive Fusion 360 Model
+
+# Interactive Fusion 360 CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a45408448a246194c5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Operating Instructions
