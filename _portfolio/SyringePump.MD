@@ -64,9 +64,20 @@ The syringe pump is not useful unless it is controllable by the user. For user i
 | Syringe pump | carries the fluid | 20ml syringe pump |
 | forward and backward buttons | manually adjust pump position | M10 push button |
 
-## Interactive Fusion 360 Model
-
+# Interactive Fusion 360 Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a45408448a246194c5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Operating Instructions
+
+1. Copy the code from the appendix into an Arduino sketch.\
+2. Change the “volumetric_flow_rate” variable to the desired flow rate (in mL/min).\
+3. Change the “total_volume” variable to the starting volume present in the syringe.\
+4. Plug in the Arduino to the computer and upload the sketch.\
+5. Unplug the Arduino from the computer and plug in the power chord from the pump.\
+6. The time to dispense should show on the LCD, and the LED should be yellow.\
+7. Press the forward and backward buttons to adjust the plunger position if necessary.\
+8. Press the start button to begin dispensing.\
+9. Once dispensing is complete (LED is red), press the start button again to move back into manual control mode.
+10. Use the backward button to reset the pump to the desired position.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
