@@ -48,6 +48,7 @@ The syringe pump is not useful unless it is controllable by the user. For user i
 ![ledgreen](/assets/img/sp_green.jpg)
 ![ledyellow](/assets/img/sp_yellow.jpg)
 ![ledred](/assets/img/sp_red.jpg)
+Figure 2
 
 ### Parts
 
