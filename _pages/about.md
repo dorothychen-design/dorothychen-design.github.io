@@ -7,7 +7,7 @@ title: About Me
 Dorothy is a 3rd year undergraduate student at Vanderbilt studying Art and Digital Fabrication.
 
 * Vanderbilt University
-  * BA Art
+  * BA, Art
 
 ## Technical Skills
 
