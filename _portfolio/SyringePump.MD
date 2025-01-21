@@ -6,16 +6,17 @@ header:
   teaser: /assets/img/syring_pump_3d_render.jpg
 gallery:
   - url: /assets/img/sp_electronics.png
-    alt: "placeholder image 1"
+    alt: "syringe_pump_electronics"
   - url: /assets/img/sp_logo.png
     image_path: /assets/img/sp_logo.png
-    alt: "placeholder image 2"
+    alt: "syringe_pump_logo"
   - url: /assets/img/sp_fit.jpg
     image_path: /assets/img/sp_fit.jpg
-    alt: "placeholder image 3"
+    alt: "syringe_pump_fit"
 ---
 ## Team
 This project was done in a team consisting of different majors and diverse skillsets.\
+
 Joseph Quatela, Computer Engineering Major: Electrical\
 Olivia Omas, Earth and Environmental Science: CAD\
 Joseph Zou, Computer Science: Electrical and Code\
