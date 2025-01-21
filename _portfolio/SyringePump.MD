@@ -15,7 +15,7 @@ gallery:
     alt: "syringe_pump_fit"
 ---
 ## Team
-This project was done in a team consisting of different majors and diverse skillsets.\
+This project was done in a team consisting of different majors and diverse skillsets.
 
 Joseph Quatela, Computer Engineering Major: Electrical\
 Olivia Omas, Earth and Environmental Science: CAD\
