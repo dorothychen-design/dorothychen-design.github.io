@@ -1,5 +1,5 @@
 ---
-title: "Syringe Pump Project"
+title: "Syringe Pump"
 excerpt: "Construction of a functional syringe pump powered by a motor with a linear actuator mechanism." 
 header:
   image: /assets/img/syringepumpfront.jpg
