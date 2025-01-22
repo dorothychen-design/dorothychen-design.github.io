@@ -71,6 +71,9 @@ Figure 2
 # Interactive Fusion 360 CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a45408448a246194c5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+##Arduino Code
+[See code here](/Arduino-syringe-pump.ino)
+
 ## Operating Instructions
 
 1. Copy the code from the appendix into an Arduino sketch.
