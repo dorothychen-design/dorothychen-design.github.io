@@ -8,9 +8,9 @@ gallery:
   - url: /assets/img/sp_enclosure_lid_proto.jpg
     image_path: /assets/img/sp_enclosure_lid_proto.jpg
     alt: "lid"
-  - url: /assets/img/sp_wires.jpg
-    image_path: /assets/img/sp_wires.jpg
-    alt: "wires"
+  - url: /assets/img/sp_green.jpg
+    image_path: /assets/img/sp_green.jpg
+    alt: "greenled"
   - url: /assets/img/sp_enclosure_lid_fit.jpg
     image_path: /assets/img/sp_enclosure_lid_fit.jpg
     alt: "syringe_pump_lid_fit"
