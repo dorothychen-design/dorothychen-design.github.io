@@ -72,11 +72,11 @@ Figure 2
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a45408448a246194c5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Arduino Code
-[See code here](/Arduino-syringe-pump.ino)
+[Download code](/Arduino-syringe-pump.ino)
 
 ## Operating Instructions
 
-1. Copy the code from the appendix into an Arduino sketch.
+1. Download the Arduino sketch linked above.
 2. Change the “volumetric_flow_rate” variable to the desired flow rate (in mL/min).
 3. Change the “total_volume” variable to the starting volume present in the syringe.
 4. Plug in the Arduino to the computer and upload the sketch.
