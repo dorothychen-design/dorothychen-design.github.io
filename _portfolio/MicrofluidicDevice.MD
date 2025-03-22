@@ -2,36 +2,30 @@
 title: "Microfluidic Device"
 excerpt: "Creating a microfluidic device that sorts particles using pinch flow fractionation" 
 header:
-  image: /assets/img/syringepumpfront.jpg
-  teaser: /assets/img/syring_pump_3d_render.jpg
-gallery:
-  - url: /assets/img/sp_enclosure_lid_proto.jpg
-    image_path: /assets/img/sp_enclosure_lid_proto.jpg
-    alt: "lid"
-  - url: /assets/img/sp_green.jpg
-    image_path: /assets/img/sp_green.jpg
-    alt: "greenled"
-  - url: /assets/img/sp_enclosure_lid_fit.jpg
-    image_path: /assets/img/sp_enclosure_lid_fit.jpg
-    alt: "syringe_pump_lid_fit"
+  image: /assets/img/3-D printed insidejpg.jpg
+  teaser: /assets/img/3-D printed insidejpg.jpg
 ---
-## Team
-This project was done in a team consisting of different majors and diverse skillsets.
-
-Joseph Quatela, Computer Engineering Major: Electrical\
-Olivia Omas, Earth and Environmental Science: CAD\
-Joseph Zou, Computer Science: Electrical and Code\
-Dorothy Chen, Art, CAD
-
 ## Introduction 
-Syringe pumps can be used in a variety of settings, from delivering medicine and nutrients to patients to delivering small volumes of liquid in research lab settings. In the medical setting, the fluid is delivered very slowly through a mechanism consisting of a motor turning a lead screw which moves the plunger forward and transfers fluid from the syringe to an IV tubing. The motorized and programmable setup enables the supply of fluid to be delivered continuously and consistently. The LCD reading on commercial syringe pumps allows the amount of fluid delivered to be monitored to a high degree of accuracy. Commercial syringe pumps are expensive, with entry-level models costing a couple of hundred to upper-echelon models in the thousands. Designing the individual parts of the syringe pump, 3-D printing them, and programming electronics can be a cost-effective alternative. 
-The syringe pump consists of 3-D printed parts designed in Fusion 360. 3-D printing allows for both significantly lower cost and ease of access to make changes in the prototyping phase. The support structures that hold the syringe and the enclosure that holds the electronics were 3-D printed. The stepper motor on the outside is connected to the electronics and is programmable to alter the flow rate.
+Microfluidic devices are systems that are used to work with small amounts of fluid. They can be used in medical settings, lab settings to transport, sort, or mix fluid.
 
-### Our Design
-This project entails the construction of a functional syringe pump powered by a motor coupled to a lead screw. Key design considerations include adaptability to varying syringe diameters and adjustable flow rates. The syringe pump incorporates status lights for operational feedback, a latching button for control, and a limit switch to halt motion when the plunger reaches its limit.
-Utilizing CAD modeling and FFF (Fused Filament Fabrication), we aim to create an enclosure to house the electronics, safeguarding them from user access and potential liquid exposure. The syringe components are designed without the use of glue or hammering, instead employing fasteners and non-permanent mechanical fits. We also added our own branding logo to the design to differentiate it from competitors.
-To enhance functionality, we added bonus features which include two monetary buttons for motor control in clockwise and counterclockwise directions, as well as an LCD display to provide real-time feedback on flow rate and remaining time until the syringe pump is empty.
-The syringe pump went through rigorous testing to verify volumetric flow rates ranging from 0.1 ml/min to 5 ml/min. Furthermore, testing will assess the pump's ability to seamlessly interface with syringes of multiple diameters, ensuring versatility and reliability in operation.
+In this project, the microfluidic device uses pinch flow fractionation to separate particles. Designed in CAD and printed a cast resin for a PDMS mold, the device was able to separate the two particles at a somewhat consistent level. Pinch flow fractionation is a specific mechanism that can be created in a microfluidic device that is used for separating particles of different sizes. Two inlets supply fluid: one inlet containing fluid with particles and one without, which contains a higher flow rate. They converge at a point, and travel through a smaller “pinched” section into a wider “broad” section. In the pinched section, the particles are slammed to a side wall by the liquid with no particles. The result is separating the particles where the smaller particle will exit into a different outlet than the large particle.
+
+
+### Process
+### CAD model
+A 3D model was created in Autodesk Fusion 360. The model’s features define the empty space of the final microfluidic device. 
+
+#### Print and cure mold 
+The model is then printed with the Formlabs Form 3+ resin printer. The printer uses SLA technology to cure photosensitive resin layer by layer with a UV laser.
+
+#### Parylene device 
+The resin mold is coated with parylene to increase resolution around contour edges. The coat makes it easier to demold the PDMS.
+
+#### Cast PDMS
+PDMS solution is poured into the mold. 
+
+#### Plasma bond glass slide
+Plasma bonding is used to create a strong, permanent bond between PDMS and the glass. The plasma activates both surfaces and covalent bonds are created when they join together.
 
 
 ## Description of Features
