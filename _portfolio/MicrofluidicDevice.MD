@@ -27,6 +27,11 @@ PDMS solution is poured into the mold.
 #### Plasma bond glass slide
 Plasma bonding is used to create a strong, permanent bond between PDMS and the glass. The plasma activates both surfaces and covalent bonds are created when they join together.
 
+![microfluidicdevice](/assets/img/microfluidic-resin.jpg)
+Resin printed model
+
+![PDMScast](/assets/img/microfluidic-pdms.jpg)
+PDMS device
 
 ## Description of Features
 ### Coating with Parylene?
@@ -36,8 +41,7 @@ Resin-printed molds are coated with parylene prior to casting the PDMS to ensure
 Applications of this microfluidic sorter include sorting any particles of different sizes.
 
 
-### Design and Dimensions
-![microfluidicdevice](/assets/img/microfluidic-resin.jpg)
+## Design and Dimensions
 
 This geometry is conducive to sorting because it aims to have an equal surface area across all 3 channels in order to have an as close to equal flow rate as possible. The equation:
 
@@ -63,10 +67,10 @@ Large particle size = 0.5 mm
 Small particle position at outlet = 17.10 mm from x = 0
 Large particle position at outlet = 12.67 mm from x = 0
 
-# CAD model
+## CAD model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4ce364c9d70b89280?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Watch
+## Watch
 [Watch the device testing](https://youtu.be/fqPoehCZjDY)
 
 ### Steps to Ensure Proper Flow Rate
