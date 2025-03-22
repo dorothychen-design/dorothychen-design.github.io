@@ -29,11 +29,53 @@ Plasma bonding is used to create a strong, permanent bond between PDMS and the g
 
 
 ## Description of Features
-### Enclosure
-The enclosure was made with a curved front that leads to a panel with an LCD display and buttons. The curved surface serves an aesthetic purpose, while the angled panel allows easy access to the buttons and a view of the LCD and LED buttons. The unassuming DimensionalDivasDiscoBall™ logo is placed on the right side to distinguish this syringe pump from the competition.
+### Coating with Parylene?
+Resin-printed molds are coated with parylene prior to casting the PDMS to ensure high fidelity in contour edges. This allows the final device to have high dimensional accuracy. The coated parylene also enables full cross-linking of PDMS. Without the parylene coat, the minimal contouring of nonplanar features resulted in residual PDMS which had not fully cross-linked. This situation also makes the PDMS hard to demold. 
 
-### Linear Actuator Mechanism
-The syringe pump works by placing a syringe into a linear actuator (Figure 1) that pushes or pulls on the plunger to dispense liquid at a constant rate. The linear actuator is an electro-mechanical system that turns rotational motion provided by the motor (Figure 1, label A) into linear motion. The rotational motion of the motor is coupled to a lead screw that a nut may be screwed onto. If this nut is rotationally fixed, as it is by the rod in Figure 1 label B, then the motion is forced to become linear, moving whatever is fixed to the nut back and forth. For this linear actuator, the carriage (label C) is fixed to the screw, so it, as a unit, will move back and forth. On the carriage, there is a slot for the end of the plunger of the syringe pump, which is what allows the carriage to push and pull the plunger. On the end support (label D), there is another slot to hold the body of the syringe in place. The combination of a fixed body with a plunger that is able to be moved by the carriage is what allows the overall system to effectively dispense liquid. For example, if the carriage moves forward, it may push the plunger from 15 mL to 10 mL without the body of the syringe moving at all.
+### Applications
+Applications of this microfluidic sorter include sorting any particles of different sizes.
 
-![diagram](/assets/img/sp_diagram.png)\
-Figure 1
+
+### Design and Dimensions
+![microfluidicdevice](/assets/img/microfluidic-resin.jpg)
+
+This geometry is conducive to sorting because it aims to have an equal surface area across all 3 channels in order to have an as close to equal flow rate as possible. The equation:
+
+Y0 = (wp − D/2 ) * (wb / wp), where
+
+Y0 = particle position at outlet
+wp = width of pinch
+wb = width of broad
+D = diameter of particle
+
+is used to calculate where the particle will end up after going out of the pinch section.
+
+### Dimensions
+
+For this experiment:
+particle 1: 0.125 - 0.15 mm
+particle 2: 0.425 - 0.5 mm
+
+Width of pinch = 0.75 mm
+Width of board = 0.19 mm
+Small particle size = 0.15 mm
+Large particle size = 0.5 mm 
+Small particle position at outlet = 17.10 mm from x = 0
+Large particle position at outlet = 12.67 mm from x = 0
+
+# CAD model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4ce364c9d70b89280?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Watch
+[Watch the device testing](https://youtu.be/fqPoehCZjDY)
+
+### Steps to Ensure Proper Flow Rate
+
+The smaller particle outlet is closer to the pinch section than the large particle outlet. As a result, fluid will flow into the smaller particle outlet channel faster than the larger. This creates back pressure and can result in different flow rates, which can alter the particle’s exit positions and result in failed sorting. I used a zig-zag design for the smaller particle outlet to increase the cross-sectional area (creating a longer path for the particle to travel). This should even out the flow rate, preventing disruption to the laminar flow streamlines. 
+
+### Results
+The particles did separate but inconsistently. The way the particles moved suggests that laminar flow was not present, so I should repeate the testing. For the future, I could use COMSOL, a fluid simulation software to ensure that the flow rates of the CAD model are equal.
+
+*no bonus attempted
+
+
