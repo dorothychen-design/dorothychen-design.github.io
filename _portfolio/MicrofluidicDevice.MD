@@ -2,8 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "Creating a microfluidic device that sorts particles using pinch flow fractionation" 
 header:
-  image: /assets/img/3-D printed insidejpg.jpg
-  teaser: /assets/img/3-D printed insidejpg.jpg
+  image: /assets/img/microfluidic-resin.jpg
+  teaser: /assets/img/microfluidic-resin.jpg
 ---
 ## Introduction 
 Microfluidic devices are systems that are used to work with small amounts of fluid. They can be used in medical settings, lab settings to transport, sort, or mix fluid.
