@@ -45,12 +45,12 @@ Applications of this microfluidic sorter include sorting any particles of differ
 
 This geometry is conducive to sorting because it aims to have an equal surface area across all 3 channels in order to have an as close to equal flow rate as possible. The equation:
 
-Y0 = (wp − D/2 ) * (wb / wp), where\
+Y0 = (wp − D/2 ) * (wb / wp), where
 
 Y0 = particle position at outlet\
 wp = width of pinch\
 wb = width of broad\
-D = diameter of particle\
+D = diameter of particle
 
 is used to calculate where the particle will end up after going out of the pinch section.
 
@@ -58,13 +58,13 @@ is used to calculate where the particle will end up after going out of the pinch
 
 For this experiment:\
 particle 1: 0.125 - 0.15 mm\
-particle 2: 0.425 - 0.5 mm\
+particle 2: 0.425 - 0.5 mm
 
-Width of pinch = 0.75 mm
-Width of board = 0.19 mm
-Small particle size = 0.15 mm
-Large particle size = 0.5 mm 
-Small particle position at outlet = 17.10 mm from x = 0
+Width of pinch = 0.75 mm\
+Width of board = 0.19 mm\
+Small particle size = 0.15 mm\
+Large particle size = 0.5 mm\ 
+Small particle position at outlet = 17.10 mm from x = 0\
 Large particle position at outlet = 12.67 mm from x = 0
 
 ## CAD model
