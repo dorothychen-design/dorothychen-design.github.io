@@ -75,10 +75,10 @@ Large particle position at outlet = 12.67 mm from x = 0
 
 ### Steps to Ensure Proper Flow Rate
 
-The smaller particle outlet is closer to the pinch section than the large particle outlet. As a result, fluid will flow into the smaller particle outlet channel faster than the larger. This creates back pressure and can result in different flow rates, which can alter the particle’s exit positions and result in failed sorting. I used a zig-zag design for the smaller particle outlet to increase the cross-sectional area (creating a longer path for the particle to travel). This should even out the flow rate, preventing disruption to the laminar flow streamlines. 
+The smaller particle outlet is closer to the pinch section than the large particle outlet. As a result, fluid will flow into the smaller particle outlet channel faster than the larger. This can result in different flow rates, which then altesr the particle’s exit positions and result in failed sorting. I used a zig-zag channel design for the smaller particle outlet to increase the cross-sectional area (creating a longer path for the particle to travel). This should even out the flow rate, preventing disruption to the laminar flow streamlines. 
 
 ### Results
-The particles did separate but inconsistently. The way the particles moved suggests that laminar flow was not present, so I should repeate the testing. For the future, I could use COMSOL, a fluid simulation software to ensure that the flow rates of the CAD model are equal.
+The particles did separate but inconsistently. The way the particles moved suggests that laminar flow was not present. For the future, COMSOL, a fluid simulation software can be used to ensure that the flow rates of the fluid going out of the channels are equal.
 
 *no bonus attempted
 
