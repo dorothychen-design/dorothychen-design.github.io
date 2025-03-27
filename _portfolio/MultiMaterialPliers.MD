@@ -2,8 +2,8 @@
 title: "Multi-material Plier"
 excerpt: "Functional Plier using TPU and PLA" 
 header:
-  image: /assets/img/microfluidic-resin.jpg
-  teaser: /assets/img/microfluidic-resin.jpg
+  image: /assets/img/pliersfront.jpg
+  teaser: /assets/img/pliersfront.jpg
 ---
 ## Introduction 
 
