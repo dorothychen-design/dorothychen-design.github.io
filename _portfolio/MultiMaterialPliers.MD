@@ -6,7 +6,6 @@ header:
   teaser: /assets/img/pliersflexible1.jpg
 
 gallery:
-"
   - url: /assets/img/pliersfront.jpg
     image_path: /assets/img/pliersfront.jpg
     alt: "frontface"
@@ -34,6 +33,5 @@ Perimeters and Shell > Vertical Shells > Perimeters to 3\
 Infill > 25%, Rectilinear\
 Width and Flow > Extrusion width > Infill changed to 1 mm 
 
-![gif1](/assets/img/pliersgif2.gif)
-![gif2](/assets/img/pliersgif.gif)
+![gif1](/assets/img/pliersgif.gif)
 
