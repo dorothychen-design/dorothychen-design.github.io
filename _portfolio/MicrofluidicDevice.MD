@@ -12,7 +12,7 @@ In this project, the microfluidic device uses pinch flow fractionation to separa
 
 
 ### Process
-### CAD model
+#### CAD model
 A 3D model was created in Autodesk Fusion 360. The model’s features define the empty space of the final microfluidic device. 
 
 #### Print and cure mold 
