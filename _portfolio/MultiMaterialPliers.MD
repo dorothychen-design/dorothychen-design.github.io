@@ -20,7 +20,7 @@ This project consisted of using two materials to create a flexible plier. Althou
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a48658a79429332436?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-Design
+## Design
 The design intends for a flexible region that moves and brings the tips of the jaws together when the handles are brought together. The terrace structure of the flexible component was created in SuperSlicer. I removed the top and bottom layers from the model, revealing the infill pattern underneath. The flexible component went through multiple iterations. In the first iteration with the flexible and rigid rejoins joined, my part was too flexible. The flexible region would twist when the handlebars were closed. The infill lines were too thin, resulting in too much flexibility and low consistency in printing the lines. I increased the extrusion width and flow to 1 mm and increased the depth in both regions to 10mm from 5 mm. The 2nd iteration of the print (the final product) with these changes implemented resulted in a firmer plier and the right amount of flexibility. 
 
 ![fleible](/assets/img/pliersflexible1.jpg)\
