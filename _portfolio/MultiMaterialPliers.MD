@@ -34,5 +34,5 @@ Infill > 25%, Rectilinear\
 Width and Flow > Extrusion width > Infill changed to 1 mm 
 
 ![gif1](/assets/img/pliersgif.gif)
-![finalinteration](//assets/img/pliersfront.jpg)
+![finalinteration](/assets/img/pliersfront.jpg)
 
