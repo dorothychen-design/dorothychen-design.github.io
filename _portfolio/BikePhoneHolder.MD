@@ -28,7 +28,10 @@ Note: The piece comes in two parts: 1. the phone holder which is already attache
 4. Insert two M3 x 20 mm into the holes of the clamp, attach nuts to the opposite sides and tighten to secure the whole piece onto the handlebars.\
 5. Fit the phone into the holder and start riding.
 
-Figure
+## CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4faf2711bca6b2fa3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Figures\
 ![lowerangle](/assets/img/PHon_handlebar.jpg)\
 Figure 1. Phone holder on handlebars
 
