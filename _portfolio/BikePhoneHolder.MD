@@ -44,6 +44,17 @@ Figure 4. Fusion 360 Rendering, top view
 ![rendering2](/assets/img/section analysis detent.png)\
 Figure 5. Cross section view of rotating mechamism
 
+![lowerangle](/assets/img/holder_render.png)\
+Figure 6. Holder rendering
+
+![lowerangle](/assets/img/detent_render.png)\
+Figure 7. Detent rendering
+
+![lowerangle](/assets/img/clamp_render.png)\
+Figure 8. Clamp rendering
+
+![lowerangle](/assets/img/clamp_onbar_render.png)\
+Figure 9. Clamp on bar rendering
 
 
 
