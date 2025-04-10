@@ -3,7 +3,7 @@ title: "Bike Phone Holder"
 excerpt: "Filament 3-D printed rotating bike phone holder" 
 header:
   image: /assets/img/render1.png
-  teaser: /assets/img/PHon_handlebar_crop.jpg
+  teaser: /assets/img/render2_crop.png
 
 ---
 
