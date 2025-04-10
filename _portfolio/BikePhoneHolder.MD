@@ -32,31 +32,31 @@ Note: The piece comes in two parts: 1. the phone holder which is already attache
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4faf2711bca6b2fa3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Figures
-![lowerangle](/assets/img/PHon_handlebar.jpg)\
+![lowerangle](/assets/img/PHon_handlebar.jpg)
 Figure 1. Phone holder on handlebars
 
-![gif](/assets/img/PHrotion.gif)\
+![gif](/assets/img/PHrotion.gif)
 Figure 2. .gif of holder rotating
 
-![rendering1](/assets/img/render1.png)\
+![rendering1](/assets/img/render1.png)
 Figure 3. Fusion 360 Rendering, side view
 
-![rendering2](/assets/img/render2.png)\
+![rendering2](/assets/img/render2.png)
 Figure 4. Fusion 360 Rendering, top view
 
-![rendering2](/assets/img/section analysis detent.png)\
+![rendering2](/assets/img/section analysis detent.png)
 Figure 5. Cross section view of rotating mechamism
 
-![lowerangle](/assets/img/holder_render.png)\
+![lowerangle](/assets/img/holder_render.png)
 Figure 6. Holder rendering
 
-![lowerangle](/assets/img/detent_render.png)\
+![lowerangle](/assets/img/detent_render.png)
 Figure 7. Detent rendering
 
-![lowerangle](/assets/img/clamp_render.png)\
+![lowerangle](/assets/img/clamp_render.png)
 Figure 8. Clamp rendering
 
-![lowerangle](/assets/img/clamp_onbar_render.png)\
+![lowerangle](/assets/img/clamp_onbar_render.png)
 Figure 9. Clamp on bar rendering
 
 
