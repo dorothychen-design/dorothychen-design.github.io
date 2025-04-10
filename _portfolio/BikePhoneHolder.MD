@@ -31,7 +31,7 @@ Note: The piece comes in two parts: 1. the phone holder which is already attache
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4faf2711bca6b2fa3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## Figures\
+## Figures
 ![lowerangle](/assets/img/PHon_handlebar.jpg)\
 Figure 1. Phone holder on handlebars
 
