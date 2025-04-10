@@ -3,7 +3,7 @@ title: "Bike Phone Holder"
 excerpt: "Filament 3-D printed rotating bike phone holder" 
 header:
   image: /assets/img/render1.png
-  teaser: /assets/img/render2.png
+  teaser: /assets/img/PHon_handlebar.jpg
 
 ---
 
@@ -28,9 +28,9 @@ Note: The piece comes in two parts: 1. the phone holder which is already attache
 4. Insert two M3 x 20 mm into the holes of the clamp, attach nuts to the opposite sides and tighten to secure the whole piece onto the handlebars.\
 5. Fit the phone into the holder and start riding.
 
-Figures
-![lowerangle](/assets/img/PH_lower_angle.jpg\)\
-Figure 1. Lower angle of phone holder on handlebars
+Figure
+![lowerangle](/assets/img/PHon_handlebar.jpg)\
+Figure 1. Phone holder on handlebars
 
 ![gif](/assets/img/PHrotion.gif)\
 Figure 2. .gif of holder rotating
