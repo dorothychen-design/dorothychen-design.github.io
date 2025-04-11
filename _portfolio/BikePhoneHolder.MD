@@ -13,7 +13,7 @@ Top down modeling is a CAD method that is useful for creating a product with mul
 
 ## Rationale for the design
 
-My rationale was to create a primarily functional bike phone holder that minimizes the material and parts needed for a functional product. The phone holder is made of TPU, which can bed slightly, allowing the phone to fit into place, and not fall out while riding the bike. The rest of the product is made of PLA. 
+My rationale was to create a primarily functional bike phone holder that minimizes the material and parts needed for a functional product. The phone holder is made of TPU, which can bend slightly, allowing the phone to fit into place, and not fall out while riding the bike. The rest of the product is made of PLA. 
 
 ## Rotation mechanism and 3-D printing Technology and Material
 
