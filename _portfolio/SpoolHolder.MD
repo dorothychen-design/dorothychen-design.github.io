@@ -55,8 +55,7 @@ Generative design falls short for projects where the designer doesn’t have a c
 
 ## Media
 
-![lowerangle](/assets/img/clamp_onbar_render.png)
-Figure 9. Clamp on bar rendering
+*to be inserted 
 
 
 
