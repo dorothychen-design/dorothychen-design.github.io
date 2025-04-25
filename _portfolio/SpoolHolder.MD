@@ -21,11 +21,11 @@ For obstacle geometries, I defined them for the spool region, the hole for the M
 ### Forces:
 1. Gravity
 2. Load case 1: Static load: bearing load of 50N down (angle of 180 degrees), bearing load of 5N (125 degrees) \
-I accounted for a max weight of the spool being 3 kg pounds, as well as additional pressure a user might exert downwards when loading the spool. To calculate the force: F = 3 kg × 9.8 m/s = 29.4 N. I added an additional 20 N to account for miscellaneous forces exerted by a user.\
+I accounted for a max weight of the spool being 3 kg pounds, as well as additional pressure a user might exert downwards when loading the spool. To calculate the force: F = 3 kg × 9.8 m/s = 29.4 N. I added an additional 20 N to account for miscellaneous forces exerted by a user.
 3. Load case 2: Shear force: 120 N down, 120 N from the side (90 degrees) \
-These forces are applied to one side of the holder. I accounted for extra force in this area. \
+These forces are applied to one side of the holder. I accounted for extra force in this area.
 4. Load case 3: Slam force: 120 N on side face of spool holder (90 degrees) \
-Forces here account for the slamming of the spool onto the holder.\
+Forces here account for the slamming of the spool onto the holder.
 
 ### Constraints:
 One fixed constraint on the printer clamp preserve geometry. This is the only part that won’t move.
