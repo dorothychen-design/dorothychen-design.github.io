@@ -14,18 +14,18 @@ I designed a spool holder that was designed to add ease to the process of filame
 
 The preserve geometry regions include the component that attaches to the aluminum extrusion on the printer, the hole to hold the bowden tube for loading filament, and the component that the spool itself rests on.
 
-For obstacle geometries, I defined the area the spool takes up), the hole for the M5 bolt and tool to screw it in, the hole for the bowden tube, and the printer.
+For obstacle geometries, I defined them for the spool region, the hole for the M5 bolt and tool to screw it in, the hole for the bowden tube, the hole through the spool holder, and the top of the Voron printer. For the spool, I created a cylinder shape that encloses the spool holder preserve geometry. The diameter of the cylinder is the diameter of the largest spool in the DF lab. Initially, I had modeled the spool around the preserve with the centers of both circles lining up. This resulted in the spool holder being too low, because I did not account for the fact that the spool would be resting on the holder, meaning it would sit lower. I created obstacle geometries for the M5 bolt as well as for the head of the bolt. I extended the geometry up to ensure there is room for an allen key to screw the bolt down. I created another cylinder obstacle geometry for sliding in a bowden tube through the spool holder to decrease the friction of the spool against the holder, and a cylinder going through the bowden tube holder where the filament would be loaded in.
 
 ## Load case application and structural constraints
 
 ### Forces:
-Gravity
-Load case 1: Static load: bearing load of 50N down (angle of 180 degrees), bearing load of 5N (125 degrees)
-I accounted for a max weight of the spool being 6 pounds, and pressure the user would exert on the spool. 
-Load case 2: Shear force: 120 N down, 120 N from the side (90 degrees)
-These forces are applied to one side of the holder. I accounted for extra force in this area.
-Load case 3: Slam force: 120 N on side face of spool holder (90 degrees)
-Forces here account for the slamming of the spool onto the holder.
+1. Gravity
+2. Load case 1: Static load: bearing load of 50N down (angle of 180 degrees), bearing load of 5N (125 degrees) \
+I accounted for a max weight of the spool being 3 kg pounds, as well as additional pressure a user might exert downwards when loading the spool. To calculate the force: F = 3 kg × 9.8 m/s = 29.4 N. I added an additional 20 N to account for miscellaneous forces exerted by a user.\
+3. Load case 2: Shear force: 120 N down, 120 N from the side (90 degrees) \
+These forces are applied to one side of the holder. I accounted for extra force in this area. \
+4. Load case 3: Slam force: 120 N on side face of spool holder (90 degrees) \
+Forces here account for the slamming of the spool onto the holder.\
 
 ### Constraints:
 One fixed constraint on the printer clamp preserve geometry. This is the only part that won’t move.
@@ -41,6 +41,7 @@ Generative design falls short for projects where the designer doesn’t have a c
 ## CAD Model:
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a40b5615b415f04d8f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 ## Table of forces applied
 
