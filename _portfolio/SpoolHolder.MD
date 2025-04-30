@@ -72,4 +72,16 @@ Iteration 4
 ![Iteration5](assets/img/Iteration5.png)
 Iteration 5
 
+## Before
+![Before1](/assets/img/spoolbefore1.jpg)
+Spool behind the printer is harder to reach.
+
+![Before2](/assets/img/spoolbefore2.jpg)
+Top view.
+
+## After
+![After](/assets/img/spoolsideview.jpg)
+
+
+
 
