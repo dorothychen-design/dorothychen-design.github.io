@@ -1,9 +1,9 @@
 ---
 title: "Generative Design Filament Spool Holder"
-excerpt: "Spool holder for Vanderbilt Digital Fabrication Lab Voron 2-D Printer" 
+excerpt: "Spool holder for Vanderbilt Digital Fabrication Lab Voron 3-D Printer" 
 header:
-  image: 
-  teaser: 
+  image: /assets/img/spoolsideview.jpg
+  teaser: /assets/img/spoolfrontview.jpg
 
 ---
 ## Overview of the part and application
@@ -55,8 +55,21 @@ Generative design falls short for projects where the designer doesn’t have a c
 
 ## Media
 
-*to be inserted 
+## Generative Design Outcome Iterations
 
+![Iteration1](/assets/img/Iteration1.png)
+Iteration 1.
 
+![Iteration2](assets/img/Iteration2.png)
+Iteration 2.
+
+![Iteration3](assets/img/Iteration3.png)
+Iteration 3.
+
+![Iteration4](assets/img/Iteration4.png)
+Iteration 4
+
+![Iteration5](assets/img/Iteration5.png)
+Iteration 5
 
 
