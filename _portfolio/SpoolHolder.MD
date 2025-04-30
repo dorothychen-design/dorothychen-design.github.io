@@ -42,7 +42,6 @@ Generative design falls short for projects where the designer doesn’t have a c
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a40b5615b415f04d8f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
 ## Table of forces applied
 
 | Name of force | Magnitude | Location applied | Rational |
@@ -60,16 +59,16 @@ Generative design falls short for projects where the designer doesn’t have a c
 ![Iteration1](/assets/img/Iteration1.png)
 Iteration 1.
 
-![Iteration2](assets/img/Iteration2.png)
+![Iteration2](/assets/img/Iteration2.png)
 Iteration 2.
 
-![Iteration3](assets/img/Iteration3.png)
+![Iteration3](/assets/img/Iteration3.png)
 Iteration 3.
 
-![Iteration4](assets/img/Iteration4.png)
+![Iteration4](/assets/img/Iteration4.png)
 Iteration 4
 
-![Iteration5](assets/img/Iteration5.png)
+![Iteration5](/assets/img/Iteration5.png)
 Iteration 5
 
 ## Before
