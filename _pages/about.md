@@ -13,7 +13,7 @@ Dorothy is a 4rd year undergraduate student at Vanderbilt studying Art and Digit
 
 ## Technical Skills
 
-Dorothy has experience with rapid prototyping, CAD modeling, and working in teams with diverse skillsets. She values both aesthetics and functionality, keeping the people that will engage with design front of mind, when designing 3D models. 
+Dorothy has experience with rapid prototyping, CAD modeling, and working in teams with diverse skillsets. She values both aesthetics and functionality, keeping the people that will engage with the design front of mind, when designing 3D models. 
 
 * Fused Filament Fabrication (FFF)
 * Laser cutting
