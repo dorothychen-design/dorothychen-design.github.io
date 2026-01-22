@@ -20,3 +20,6 @@ Dorothy has experience with rapid prototyping, CAD modeling, and working in team
 * CAD Fusion 360
 * Python language
 
+## Design Portfolio
+
+[Click here](https://dorothychen.cargo.site/) to see my design work.
