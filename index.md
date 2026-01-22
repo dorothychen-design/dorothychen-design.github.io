@@ -10,7 +10,6 @@ header:
     - label: "Projects"
       url: "/portfolio/"
 excerpt: "Dorothy Chen is a student at Vanderbilt University, using the latest additive manufacturing technology, including 3D CAD modeling, resin printing, powder jet fusion, and laser sinstering to create functional, sustainable, and aesthetic designs. 
-
 feature_row:
   - image_path: /assets/img/sp_green.jpg
     alt: "sp_green_led"
