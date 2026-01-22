@@ -9,14 +9,18 @@ header:
   actions:
     - label: "Projects"
       url: "/portfolio/"
-excerpt: "Dorothy Chen is a student at Vanderbilt University, using the latest additive manufacturing technology, including 3D CAD modeling, resin printing, powder jet fusion, and laser sinstering to create functional, sustainable, and aesthetic designs, to solve problems and create value to people's lives."
+excerpt: "Dorothy Chen is a student at Vanderbilt University, using the latest additive manufacturing technology, including 3D CAD modeling, resin printing, powder jet fusion, and laser sinstering to create functional, sustainable, and aesthetic designs. 
 
 feature_row:
   - image_path: /assets/img/sp_green.jpg
     alt: "sp_green_led"
-  - image_path: /assets/img/syringepumpfront.jpg
-    alt: "placeholder image 2"
-  - image_path: /assets/img/sp_electronics.png
+    title: "Syringe Pump"
+  - image_path: /assets/img/3-D printed insidejpg.jpg
+    alt: "microfluidic"
+    title: "Microfluidic Device"
+  - image_path: /assets/img/spoolfrontview.jpg
+    alt: "spool holder"
+    title: "Spool Holder for Voron printers"
 ---
 
 {% include feature_row %}
