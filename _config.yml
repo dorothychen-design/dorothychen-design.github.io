@@ -98,7 +98,8 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/Dorothy_chen_headshot_cropped.jpg"
-  bio              : "3rd year undergraduate at Vanderbilt University"
+  # old headshot: Dorothy_chen_headshot_cropped.jpg
+  bio              : "Designer and 3D modeling pro"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
