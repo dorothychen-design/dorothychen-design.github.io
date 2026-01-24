@@ -20,12 +20,12 @@ My rationale was to create a primarily functional bike phone holder that minimiz
 The detent mechanism consists of a ball bearing and spring which allows the phone to be rotated and toggle between portrait and landscape orientations. The clamp portion connects to the detent mechanism via 2 m3 bolts. The tightness of the clamp on the handlebars can be adjusted by tightening the nuts of the m3 bolts. The rotation mechanism works well as the ball bearing clicks into place when turning into either portrait or landscape mode. To account for the 3-D printing process, I made the ball bearing hole circle sketch 0.5 mm larger than the 7mm ball bearing diameter, and the spring slot slightly wider than the diameter of the spring. I used filament printing for the whole piece. The phone holder is printed with TPU to allow for flexibility when fitting the phone into the holder, while the rest of the assembly is printed with PLA to ensure that the detent mechanism and clamp onto the handlebars will not move from the force generated when the user rotates the phone.
 
 ## Assembly Instructions
-Note: The piece comes in two parts: 1. the phone holder which is already attached to the detent mechanism and 2. the clamp
+Note: The piece comes in two parts: 1. Phone holder, which is already attached to the detent mechanism and 2. The clamp
 
-1. Align the holes of the clamp so that the hole of the clamp which wraps around the handlebars is directly over the cylinder protruding from the detent mechanism.\
-2. Insert two M3 x 30 mm bolts into the holes, connecting the clamp piece to the detent mechanism body by screwing them in.\
-3. Slide the whole piece into place on the handlebars via the hole in the clamp.\ 
-4. Insert two M3 x 20 mm into the holes of the clamp, attach nuts to the opposite sides and tighten to secure the whole piece onto the handlebars.\
+1. Align the holes of the clamp so that the hole of the clamp which wraps around the handlebars is directly over the cylinder protruding from the detent mechanism.
+2. Insert two M3 x 30 mm bolts into the holes, connecting the clamp piece to the detent mechanism body by screwing them in.
+3. Slide the whole piece into place on the handlebars via the hole in the clamp. 
+4. Insert two M3 x 20 mm into the holes of the clamp, attach nuts to the opposite sides and tighten to secure the whole piece onto the handlebars.
 5. Fit the phone into the holder and start riding.
 
 ## CAD Model
