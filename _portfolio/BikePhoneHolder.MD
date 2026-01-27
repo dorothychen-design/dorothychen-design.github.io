@@ -7,7 +7,7 @@ header:
 
 ---
 
-## Top down modeling in this assignment
+## Top down modeling
 
 Top down modeling is a CAD method that is useful for creating a product with multiple components that reference each other for dimensions. Additionally, top down modeling allows one to access each component’s sketches and extrusions easily, by clearing the timeline to show only the actions performed on the component when the component is activated in Fusion 360. This assignment uses top down modeling by creating new components that are modeled around a bike handlebar and a phone case. The phone holder was built by visually referencing the dimensions of the phone case. After the holder was built, the detent mechanism component was created on the back face of the holder, allowing me to see how big I could make the part, and more importantly, how the detent mechanism would relate to the phone holder. After that, the clamp sketch was created around the handlebars, and part that connects to the detent mechanism was created by creating sketch planes off faces of the already built clamp component. The assembly consists of five components in total: the phone case (imported), phone holder, detent mechanism, handlebar, and clamp. 
 
