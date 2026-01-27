@@ -6,7 +6,7 @@ title: "About Dorothy Chen"
 
 ## Education
 
-Dorothy is a 4rd year undergraduate student at Vanderbilt.
+Dorothy is a 4rd year undergraduate student at Vanderbilt University.
 
 * Vanderbilt University
   * BA, Art
