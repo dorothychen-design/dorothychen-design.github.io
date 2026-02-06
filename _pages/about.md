@@ -9,7 +9,7 @@ title: "About Dorothy Chen"
 Dorothy is a 4rd year undergraduate student at Vanderbilt University.
 
 * Vanderbilt University
-  * BA, Art
+  * BA, Studio Art
   * Minor in Digital Fabrication
 
 ## Technical Skills
