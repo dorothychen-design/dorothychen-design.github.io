@@ -10,6 +10,7 @@ Dorothy is a 4rd year undergraduate student at Vanderbilt University.
 
 * Vanderbilt University
   * BA, Art
+  * Minor in Digital Fabrication
 
 ## Technical Skills
 
@@ -23,3 +24,5 @@ Dorothy has experience with rapid prototyping, CAD modeling, and working in team
 ## Design Portfolio
 
 [Click here](https://dorothychen.cargo.site/) to see my design work.
+
+Learn more about the [digital fabrication minor](https://www.digitalfabricationlab.com/Pages/minor.html).
