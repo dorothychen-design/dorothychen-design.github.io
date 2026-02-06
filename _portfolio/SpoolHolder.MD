@@ -80,7 +80,7 @@ Top view.
 
 ## After
 ![After](/assets/img/spoolsideview.jpg)
-
+Back of printer view.
 
 
 
