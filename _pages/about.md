@@ -17,8 +17,10 @@ Dorothy is a 4rd year undergraduate student at Vanderbilt University.
 Dorothy has experience with rapid prototyping, CAD modeling, and working in teams with diverse skillsets. She values both aesthetics and functionality, keeping the people that will engage with the design front of mind, when designing 3D products. 
 
 * Fused Filament Fabrication (FFF)
+* Resin Printing
 * Laser cutting
-* CAD Fusion 360
+* Selective Laser Sintering (SLS)
+* Fusion 360
 * Python language
 
 ## Design Portfolio
