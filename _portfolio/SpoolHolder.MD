@@ -1,6 +1,6 @@
 ---
 title: "Generative Design Filament Spool Holder"
-excerpt: "Spool holder for Vanderbilt Digital Fabrication Lab Voron 3-D Printer" 
+excerpt: "Spool holder for Vanderbilt Digital Fabrication Lab Voron 3-D Printers" 
 header:
   image: /assets/img/spoolsideview.jpg
   teaser: /assets/img/spoolfrontview.jpg
