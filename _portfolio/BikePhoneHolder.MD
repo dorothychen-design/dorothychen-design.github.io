@@ -45,7 +45,7 @@ Figure 3. Fusion 360 Rendering, side view
 Figure 4. Fusion 360 Rendering, top view
 
 ![rendering2](/assets/img/section analysis detent.png)
-Figure 5. Cross section view of rotating mechamism
+Figure 5. Cross section view of rotating mechanism
 
 ![lowerangle](/assets/img/holder_render.png)
 Figure 6. Holder rendering
