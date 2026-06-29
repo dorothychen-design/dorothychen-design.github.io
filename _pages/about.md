@@ -6,7 +6,7 @@ title: "About Dorothy Chen"
 
 ## Education
 
-* Vanderbilt University | August 2023 - May 2026
+Vanderbilt University | August 2023 - May 2026
   * BA, Studio Art
   * Minor in Digital Fabrication
 
