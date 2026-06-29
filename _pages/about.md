@@ -6,8 +6,6 @@ title: "About Dorothy Chen"
 
 ## Education
 
-Dorothy is a recent graduate from Vanderbilt University.
-
 * Vanderbilt University | August 2023 - May 2026
   * BA, Studio Art
   * Minor in Digital Fabrication
