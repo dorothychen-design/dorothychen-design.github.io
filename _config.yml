@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/img/Dorothy_chen_headshot_cropped.jpg"
+  avatar           : "assets/img/Dorothy Chen_headshot.jpg"
   # old headshot: Dorothy_chen_headshot_cropped.jpg
   bio              : "Design and Digital Fabrication"
   location         : "Nashville, TN"
