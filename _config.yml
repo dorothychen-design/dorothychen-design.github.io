@@ -102,9 +102,9 @@ author:
   bio              : "Design and Digital Fabrication"
   location         : "Nashville, TN"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dorothychen-design"
+    - label: "LinkedIn"
+      icon: "LinkedIn"
+      url: "https://www.linkedin.com/in/dorothy-y-chen/"
 
 
 # Site Footer
