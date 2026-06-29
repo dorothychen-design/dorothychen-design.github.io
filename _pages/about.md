@@ -6,7 +6,7 @@ title: "About Dorothy Chen"
 
 ## Education
 
-Dorothy is a 4rd year undergraduate student at Vanderbilt University.
+Dorothy is a recent graduate from Vanderbilt University.
 
 * Vanderbilt University
   * BA, Studio Art
@@ -14,7 +14,7 @@ Dorothy is a 4rd year undergraduate student at Vanderbilt University.
 
 ## Technical Skills
 
-Dorothy has experience with rapid prototyping, CAD modeling, and working in teams with diverse skillsets. She values both aesthetics and functionality, keeping the people that will engage with the design front of mind, when designing 3D products. 
+Dorothy has expertise in CAD modeling and graphic design, a combination that allows her to easily toggle between function and aesthetics. She has worked with clients like the Digital Fabrication Lab at Vanderbilt, the Wond'ry, and the Vanderbilt University Museum of Art, and enjoys working in teams with diverse skillsets. She values desining products that are both functional and aesthetic, ensuring that design choices are tailored toward user needs and project goals. 
 
 * Fused Filament Fabrication (FFF)
 * Resin Printing
