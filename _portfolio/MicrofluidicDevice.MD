@@ -80,6 +80,5 @@ The smaller particle outlet is closer to the pinch section than the large partic
 ### Results
 The particles did separate but inconsistently. The way the particles moved suggests that laminar flow was not present. For the future, COMSOL, a fluid simulation software can be used to ensure that the flow rates of the fluid going out of the channels are equal.
 
-*no bonus attempted
 
 
