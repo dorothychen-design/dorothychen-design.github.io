@@ -18,7 +18,7 @@ feature_row:
     title: "Microfluidic Device"
   - image_path: assets/img/spoolfrontview.jpg
     alt: "spool holder"
-    title: "Spool Holder for Voron printers"
+    title: "Spool Holder for Voron Printers"
 ---
 
 {% include feature_row %}
