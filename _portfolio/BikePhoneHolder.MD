@@ -33,7 +33,7 @@ Note: The piece comes in two parts: 1. Phone holder, which is already attached t
 
 ## Figures
 ![lowerangle](/assets/img/PHon_handlebar.jpg)
-Figure 1. Phone holder on handlebars
+Figure 1. Prototype on handlebars
 
 ![gif](/assets/img/PHrotion.gif)
 Figure 2. .gif of holder rotating
