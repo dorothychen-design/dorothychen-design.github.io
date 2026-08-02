@@ -12,7 +12,7 @@ Vanderbilt University | August 2023 - May 2026
 
 ## Technical Skills
 
-Dorothy has expertise in CAD modeling and graphic design, a combination that allows her to easily toggle between function and aesthetics. She has worked with clients like the Digital Fabrication Lab at Vanderbilt, the Wond'ry, and the Vanderbilt University Museum of Art, and enjoys working in teams with diverse skillsets. She values desining products that are both functional and aesthetic, ensuring that design choices are tailored toward user needs and project goals. 
+Dorothy has expertise in CAD modeling and graphic design, a combination that allows her to easily toggle between function and aesthetics. She has worked with clients like the Digital Fabrication Lab at Vanderbilt, the Wond'ry, and the Vanderbilt University Museum of Art. Dorothy enjoys working in teams with diverse skillsets. She values designing products that are both functional and aesthetic, ensuring that design choices are tailored toward user needs and project goals. 
 
 * Fused Filament Fabrication (FFF)
 * Resin Printing
