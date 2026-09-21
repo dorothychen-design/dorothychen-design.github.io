@@ -99,8 +99,8 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/Headshot_portrait_crop.png"
   # old headshot: Dorothy_chen_headshot_cropped.jpg
-  bio              : "Design and Digital Fabrication"
-  location         : "Nashville, TN"
+  # bio              : 
+  #location         : "Nashville, TN"
   links:
     - label: "LinkedIn"
       icon: "LinkedIn"
